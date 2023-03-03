@@ -32,7 +32,13 @@ https://worldwander.vercel.app/
 
 <h3> Recent Workplace Projects </h3>
 
-Some design projects that I have recently completed include this landing page for a campaign we have running at my workplace-
+Some design projects that I have recently completed include 
+
+Landing page for a careers campaign-
+<br/>
+https://www.ramsaycareers.com.au/lib/campaign
+
+Landing page for a campaign we have running at my workplace-
 <br/>
 https://www.ramsaymentalhealth.com.au/en/ramsay-psychology/were-ready/
 
