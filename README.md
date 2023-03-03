@@ -10,6 +10,10 @@ I am most proficient and most enjoy developing with React, Typescript and anythi
 If you interested in having a chat please dont hesitate to message me on Linkedin &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/brock-phillis-b03912204/"><img src="https://www.addthis.com/dietsite-assets/images/social-buttons/icon_linkedin.svg" style="height:45px; width: 45px"/></a>
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brphillis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <hr/>
 <br>
