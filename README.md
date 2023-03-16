@@ -12,9 +12,6 @@ If you interested in having a chat please dont hesitate to message me on Linkedi
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brphillis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 <hr/>
 <br>
 <h3>Recent Personal Project (MERN)</h3>
