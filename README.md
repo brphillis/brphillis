@@ -19,6 +19,8 @@ If you interested in having a chat please dont hesitate to message me on Linkedi
 
 Link to repo: <a href="https://github.com/brphillis/gate-io-bot">https://github.com/brphillis/gate-io-bot</a>
 
+<a href="https://ibb.co/ZJDf6Xg"><img src="https://i.ibb.co/4frFZtS/Untitled.png" alt="Untitled" border="0"></a>
+
 ### Features
 - **Instant Buy and Sell**: The bot scans the exchange at regular intervals and instantly buys tokens that have dropped a certain amount since the last scan. It then places a sell order automatically.
 - **Margin Token Monitoring**: Scrape the Gate.IO announcements page to identify newly listed margin tokens and purchases them as soon as the announcement is made.
