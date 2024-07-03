@@ -7,8 +7,7 @@ Currently I am working as a web developer for Ramsay Healthcare and constantly d
 
 I am most proficient and most enjoy developing with React, Typescript and anything revolving around the MERN stack however I love branching out and tackling tech outside that realm.
 
-If you interested in having a chat please dont hesitate to message me on Linkedin &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/brock-phillis-b03912204/"><img src="https://www.addthis.com/dietsite-assets/images/social-buttons/icon_linkedin.svg" style="height:45px; width: 45px"/></a>
+If you interested in having a chat please dont hesitate to message me on <a href="https://www.linkedin.com/in/brock-phillis-b03912204/">LinkedIn</a>
 
 <br/>
 
