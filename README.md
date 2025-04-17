@@ -51,16 +51,7 @@ https://worldwander.vercel.app/
 
 <h3> Recent Workplace Projects </h3>
 
-Some design projects that I have recently completed include 
+<a href="https://www.ramsayhealth.com/"> Ramsay Health </a>
 
-Landing page for a careers campaign-
-<br/>
-https://www.ramsaycareers.com.au/lib/campaign
+<a href="https://www.ramsaypharmacyonline.com.au"> Ramsay Pharmacy Ecommerce </a>
 
-Landing page for a campaign we have running at my workplace-
-<br/>
-https://www.ramsaymentalhealth.com.au/en/ramsay-psychology/were-ready/
-
-and this design which is now used across all Ramsay Mental Health clinics in Australia
-<br/>
-https://www.ramsaymentalhealth.com.au/en/our-locations/Psychology-services/Ramsay-Psychology/locations/stleonards/
