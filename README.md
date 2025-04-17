@@ -14,21 +14,25 @@ If you interested in having a chat please dont hesitate to message me on <a href
 <hr/>
 <br>
 
-<h3>Recent Personal Project - Cryptocurrency Trading bot (NEXT.JS)</h3>
+<h3>Recent Personal Project - Custom Built CMS ( Bizlocker )</h3>
 
-Link to repo: <a href="https://github.com/brphillis/gate-io-bot">https://github.com/brphillis/gate-io-bot</a>
+Repo: <a href="https://github.com/brphillis/gate-io-bot">https://github.com/brphillis/bizlocker</a>
 
-<a href="https://ibb.co/ZJDf6Xg"><img src="https://i.ibb.co/4frFZtS/Untitled.png" alt="Untitled" border="0"></a>
-
-### Features
-- **Instant Buy and Sell**: The bot scans the exchange at regular intervals and instantly buys tokens that have dropped a certain amount since the last scan. It then places a sell order automatically.
-- **Margin Token Monitoring**: Scrape the Gate.IO announcements page to identify newly listed margin tokens and purchases them as soon as the announcement is made.
-- **Binance Announcements Integration**: Scrape the Binance announcements endpoint and automatically places orders on Gate.IO as soon as announcements are made.
+Website: <a href="https://clutchclothing.com.au">https://clutchclothing.com.au</a>
 
 <br/>
 
+<br>
 
-<h3>Recent Personal Project - WorldWander Social Media Website (MERN)</h3>
+<h3>Recent Personal Project - Multiplayer Over Network Fighting Game</h3>
+
+Repo: <a href="https://github.com/brphillis/mugen-fc">https://github.com/brphillis/mugen-fc</a>
+
+Preview: <a href="https://www.linkedin.com/posts/brock-clark-b03912204_working-towards-google-cloud-certifications-activity-7214829540613718016-TAqY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQa0LMBwBeZ-fasNAROQ4Rb0QHCMBQG76A">Link</a>
+
+<br/>
+
+<h3>Recent Personal Project - WorldWander Social Media Website</h3>
 
 Recently, on the MERN stack I have developed a Travel review website where users can navigate around a 3D globe (using Mapbox) and leave reviews, users can interact with other users reviews by liking them, adding them or reporting them ( if necessary ) so the admin can review and take action using the admin features. 
 Adding a pin to the map or leaving a review on an existing place will earn them contribution points to display on their profiles along side their total likes count.
